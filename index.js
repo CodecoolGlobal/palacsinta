@@ -1,5 +1,5 @@
 function addNumbers(a) {
-  return 2
+  return a + 2;
 }
 
 console.log(addNumbers(5))
