@@ -1,8 +1,4 @@
 
-
-
-
-
 const addNumbers = (a,b) => {
   return 2
 }
