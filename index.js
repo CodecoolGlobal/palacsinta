@@ -1,4 +1,9 @@
-function addNumbers(a) {
+
+
+
+
+
+const addNumbers = (a,b) => {
   return 2
 }
 
@@ -7,3 +12,4 @@ function mulNumbers(a) {
 }
 
 console.log(addNumbers(5))
+console.log(addNumbers(100, 40))
