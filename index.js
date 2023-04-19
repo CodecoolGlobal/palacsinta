@@ -2,4 +2,8 @@ function addNumbers(a, b) {
   return a + b;
 }
 
-console.log(addNumbers(5,3))
+function mulNumbers(a) {
+  return 2 * 8
+}
+
+console.log(addNumbers(5))
