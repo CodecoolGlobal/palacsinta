@@ -1,5 +1,5 @@
-function addNumbers(a) {
-  return a + 2;
+function addStrings(a ,b) {
+  return a + " , " + b;
 }
 
-console.log(addNumbers(5))
+console.log(addStrings("apple" ,"pear"))
