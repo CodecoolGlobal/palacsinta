@@ -1,6 +1,5 @@
-
-const addNumbers = (a,b) => {
-  return 2
+function addNumbers(a) {
+  return a+2;
 }
 
 function mulNumbers(a) {
