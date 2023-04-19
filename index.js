@@ -1,5 +1,5 @@
-function addNumbers(a) {
-  return 2
+function addNumbers(a, b) {
+  return a + b;
 }
 
-console.log(addNumbers(5))
+console.log(addNumbers(5,3))
